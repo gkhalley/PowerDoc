@@ -6,7 +6,8 @@ The following are applications that I created and use:
 * Load Estimation
 * Facility Ratings
 * Switching
-  Job Tracking has been in use for over a decade, Load Estimation since 2015, Facility Ratings are something I'm presently working, and Switching is coming up. There are many users of Job Tracking, and a handful of users for Load Estimation.
+
+Job Tracking has been in use for over a decade, Load Estimation since 2015, Facility Ratings are something I'm presently working, and Switching is coming up. There are many users of Job Tracking, and a handful of users for Load Estimation.
 ## Road Map
 I quit developing Job Tracking except for minor updates. The navigation system for Load Estimation has become default for all electrical systems. It is based on Buses and Node-Breakers. This aligns closely to Supervisory Control and Data Aquisition (SCADA) systems. Therefore, it is easy to locate information for a particular electric node or piece of equipment. This system is used in the Facility Ratings and the Switching framework.
 ## Summer School
